@@ -12,10 +12,11 @@ import TodoV7 from './TodoV7.jsx'
 import TodoV8 from './TodoV8.jsx'
 import TodoV9 from './TodoV9.jsx'
 import TodoV10 from './TodoV10.jsx'
+import TodoV11 from './TodoV11.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <TodoV10 />
+    <TodoV11 />
   </StrictMode>,
 )
